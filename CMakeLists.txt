@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(lecture_code C)
+
+set(CMAKE_C_STANDARD 99)
+
+add_executable(lecture_code main.c lecture_1_code.h lecture_2_pointers.h lecture_2_arrays_and_pointers.h lecture_3_2D_arrays.h lecture_2_strings.h lecture_4_file_io.h lecture_3_arrays_in_loops.h lecture_2_command_line_arguments.h lecture_3_pointers_revisited.h lecture_3_consoleIO.h lecture_4_scanf.h lecture_4_fgets.h lecture_4_fileIO_2.h lecture_3_commandLineArgs.h lecture_8_structs.h lecture_8_preprocessing.h lecture_8_memory_allocation.h)

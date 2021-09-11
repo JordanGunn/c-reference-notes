@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="lecture_code"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lecture_code">
+				<Option output="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/cmake-build-debug/lecture_code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 lecture_code"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lecture_code/fast">
+				<Option output="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/cmake-build-debug/lecture_code.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/11/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 lecture_code/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j16 -f &quot;/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural\ Programming/code/lecture_code/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_1_code.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_2_arrays_and_pointers.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_2_command_line_arguments.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_2_pointers.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_2_strings.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_3_2D_arrays.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_3_arrays_in_loops.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_3_commandLineArgs.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_3_consoleIO.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_3_pointers_revisited.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_4_fgets.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_4_fileIO_2.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_4_file_io.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_4_scanf.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_8_memory_allocation.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_8_preprocessing.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/lecture_8_structs.h">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/main.c">
+			<Option target="lecture_code"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/Home/OneDrive/Documents/Local/Archive/Procedural Programming/code/lecture_code/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
